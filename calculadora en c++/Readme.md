@@ -6,4 +6,4 @@
   -Lexico: a,b y c pertenecen al los enteros.
   
   _Arbol: 
-  
+  ![](https://github.com/Lopex8/MiPrimerRepositorio/blob/master/calculadora%20en%20c%2B%2B/Calculadora.jpg.png)
